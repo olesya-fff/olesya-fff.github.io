@@ -48,9 +48,7 @@ p {
 	border-bottom: 1px solid white;
 }
 
-.header {
-	margin-bottom:128px;
-}
+
 
 .logo img {
 	max-height: 32px;
@@ -59,7 +57,6 @@ p {
 .hero {
 	max-width: 1000px;
 	margin-top:96px;
-	margin-bottom: 32px;
 }
 
 .hero img {
